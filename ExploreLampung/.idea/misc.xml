@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_agropark_lampung.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_air_terjun.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_alam.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_alam_buatan.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_alam_mayang.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_bakso_sony.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_danau.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_gereja.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_jumbo_seafood.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_kampoong.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_kebun_binatang.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_lembah_batu.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_lembah_hijau.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_masjid.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_menara_siger.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_menu_utama.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_museum.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_okura.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_pondok.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_pustaka.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_riau_fantasi.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_taman_nasional.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_vihara.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_wisata_alam.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_wisata_edukasi.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_wisata_kuliner.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExploreLampung/app/src/main/res/layout/activity_wisata_religi.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
